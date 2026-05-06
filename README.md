@@ -97,7 +97,7 @@ Finance-Automation-Project/
 ![Email Notification](https://github.com/ridhima2698mba25fin-spec/Ai-finance-expense-automation-system/blob/main/email_notification.png)
 
 ### 5. powerbi dashboard
-![powerbi dashboard].(https://github.com/ridhima2698mba25fin-spec/Ai-finance-expense-automation-system/blob/main/powerbi_dashboard.png)
+![powerbi dashboard](https://github.com/ridhima2698mba25fin-spec/Ai-finance-expense-automation-system/blob/main/powerbi_dashboard.png)
 
 ## ⭐ Key Features
 
